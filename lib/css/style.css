@@ -1,0 +1,93 @@
+@font-face {
+    font-family: "puertoHelve";
+        src: url("fonts/HelveticaNeueW23-Reg/HelveticaNeueW23-Reg.eot");
+        src: url("fonts/HelveticaNeueW23-Reg/HelveticaNeueW23-Reg.eot?") format("eot"),
+             url("fonts/HelveticaNeueW23-Reg/HelveticaNeueW23-Reg.ttf") format("truetype");
+}
+
+
+
+ 
+
+
+.default1 {
+font-family:"puertoHelve",tahoma;
+    font-size:30px;
+    color:#000;
+    font-weight:normal;
+    padding:0px 10px;
+    display:inline-block;
+}
+
+
+.default2 {
+font-family:"puertoHelve",tahoma;
+    font-size:25px;
+    color:#000;
+    font-weight:bold;
+    padding:0px 10px;
+    display:inline-block;
+}
+
+.font_deafult1{
+ font-family:'Droid Arabic Kufi', tahoma;
+font-size:12px;
+font-weight:bold;
+color:#777;
+ }
+ 
+ 
+ 
+ .font_deafult2{
+ font-family:'Droid Arabic Kufi', tahoma;
+font-size:11px;
+font-weight:bold;
+color:#000;
+ }
+ 
+  .font_error{
+ font-family:'Droid Arabic Kufi', tahoma;
+font-size:11px;
+font-weight:bold;
+color:red;
+ }
+ 
+ 
+ .font_deafult2{
+  
+  font-family:'Droid Arabic Kufi', tahoma;
+font-size:12px;
+font-weight:bold;
+color:#777;
+ }
+ 
+ 
+ 
+  .font_my{
+  
+  font-family:'Droid Arabic Kufi', tahoma;
+font-size:12px;
+font-weight:bold;
+color:#000;
+ }
+ 
+ 
+ 
+.font_title{
+  
+font-family:"puertoHelve",tahoma;
+font-size:5px;
+font-weight:normal;
+color:#e5b021;
+ }
+ 
+ 
+ .input {
+     font-family:'Droid Arabic Kufi', tahoma;
+font-size:12px;  
+font-size:12px;
+     
+ }
+ 
+ 
+
